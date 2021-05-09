@@ -9,8 +9,14 @@ I am looking to gain **real world experience** in software and web development, 
 - C++
 
 ### Web
-- HTML5, CSS3, JS
-  - Familiar with the core components & bootstrap
+- DynamicHTML
+  - Familiar with the HTML5, CSS3, JS, & bootstrap
   
 - PHP
   - Including sessions & log in systems
+
+### Database
+- MySQL
+  - In web based projects and with a local LAMP stack
+- SQL Server
+  - In conjunction with a C# application (Uni)
