@@ -8,6 +8,9 @@ I am looking to gain **real world experience** in software and web development, 
 - C#.NET
 - C++
 
+### Android
+- Currently building my knowledge in Android Studio
+
 ### Web
 - DynamicHTML
   - Familiar with the HTML5, CSS3, JS, & bootstrap
