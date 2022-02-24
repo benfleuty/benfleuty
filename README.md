@@ -6,7 +6,7 @@ I am looking to gain **real world experience** in software and web development, 
 ## I have experience using:
 ### Desktop
 - C#.NET
-  - Dabbling in RabbitMQ
+  - Dabbling in [RabbitMQ](https://github.com/benfleuty/RabbitMQDemo)
 - C++
 
 ### Android
